@@ -1,2 +1,3 @@
 # cp-front-end
-cp de front end para fiap uhuuul
+Mateus Henrique de Souza - 558424
+Gustavo Ramires Lazzuri - 556772
