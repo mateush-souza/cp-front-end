@@ -1,0 +1,29 @@
+.series-containers {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  justify-content: space-evenly;
+  margin: 40px;
+}
+
+h2 {
+  color: white;
+  font-size: 22px;
+  text-align: center;
+}
+
+a:hover {
+  opacity: 0.6;
+  transition: ease-in 0.2s;
+  cursor: pointer;
+}
+
+footer {
+
+  background-color: #201e1e;
+  color: white;
+  text-align: center;
+  padding: 5px 0;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
